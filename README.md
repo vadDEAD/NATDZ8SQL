@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/inayba9a4cvcyq87?svg=true)](https://ci.appveyor.com/project/vadDEAD/natdz6)
